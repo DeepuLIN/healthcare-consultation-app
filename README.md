@@ -267,6 +267,26 @@ uvicorn server:app --reload
 
 ---
 
+# 📸 Screenshots
+
+## Landing Page
+![Landing](./screenshots/landing.png)
+
+## Authentication with Clerk
+![Auth](./screenshots/auth.png)
+
+## AI Consultation Generation
+![Consultation](./screenshots/consultation.png)
+
+## AWS Lambda Deployment
+![Lambda](./screenshots/lambda.png)
+
+
+
+---
+
+
+
 # 👨‍💻 Author
 
 Deepak Lingaraju
