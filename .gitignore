@@ -1,0 +1,51 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# coverage
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual envs
+venv/
+.venv/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+.env*.local
+
+# vercel
+.vercel
+
+# aws
+.aws/
+
+# docker
+*.tar
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
