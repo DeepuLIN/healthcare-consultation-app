@@ -83,21 +83,6 @@ Streaming AI Response (SSE)
 - Environment-based configuration
 - Multi-stage Docker builds
 
----
-
-# 📸 Application Screenshots
-
-## Login Page
-(Add screenshot here)
-
-## AI Consultation Generation
-(Add screenshot here)
-
-## AWS Lambda Deployment
-(Add screenshot here)
-
-## Docker Deployment
-(Add screenshot here)
 
 ---
 
